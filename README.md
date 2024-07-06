@@ -6,4 +6,4 @@ intelligence to use camera’s visual data for security needs.
 3. To develop an android app for security needs.
 4. Integrate the above to establish a modern security server-client network
 
-**Video link in Wiki section
+**Video link in Wiki section**
